@@ -1,7 +1,7 @@
 # React ToDo App
 It is an interactive simple application for task recording.
 
-## 🔗 Link: [ToDo App](https://anastasiya145.github.io/todo-app_react/)
+## 🔗 Link: [ToDo App](https://anastasiya145.github.io/to-do_react_app/)
 
 ![image](https://raw.githubusercontent.com/Anastasiya145/react_todo-app/master/description/todoapp.gif)
 
